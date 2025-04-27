@@ -1,0 +1,4 @@
+/* Hide Just the Docs footer credit */
+.site-footer {
+  display: none;
+}
