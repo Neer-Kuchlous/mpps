@@ -2,6 +2,8 @@ remote_theme: just-the-docs/just-the-docs
 title: Physics Problems and Solutions
 description: A collection of solved physics problems.
 
+favicon: "favicon.png"
+
 # Custom CSS
 just_the_docs:
   assets:
